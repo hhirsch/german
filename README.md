@@ -27,6 +27,7 @@ Name  | Description | Genre |
  Das fliegende Klassenzimmer | | |
  Das doppelte Lottchen | | | 
  Fack ju Göhte | | |
+ Winnetou | || 
 #### Adults
 Name  | Description | Genre |
  ------------ | :-----------: | -----------: |
@@ -39,7 +40,6 @@ Name  | Description | Genre |
  Die Blechtrommel | | |
  Otto — Der Film | | | 
  Das Millionenspiel | ||  
- Winnetou | ||  
  Nosferatu | || 
 ### TV-Stations
 - [ARD](http://www.ardmediathek.de/tv)
