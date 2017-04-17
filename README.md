@@ -21,18 +21,21 @@ Name  | Description | Genre |
  Tatort | |crime|
 
 ### Movies
+#### Kids
+Name  | Description | Genre |
+ ------------ | :-----------: | -----------: |
+ Das fliegende Klassenzimmer | | |
+ Das doppelte Lottchen | | | 
+ Fack ju Göhte | | |
 #### Adults
 Name  | Description | Genre |
  ------------ | :-----------: | -----------: |
  Der Untergang | | |
  Das Leben der Anderen | | |
- Das fliegende Klassenzimmer | | |
- Das doppelte Lottchen | | | 
  Die Feuerzangenbowle | | |
  Das Boot | | |
  Der Eisbär | | |
  Papa ante Portas | | |
- Fack ju Göhte | | |
  Die Blechtrommel | | |
  Otto — Der Film | | | 
  Das Millionenspiel | ||  
