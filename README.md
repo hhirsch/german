@@ -20,6 +20,17 @@ Name  | Description | Genre |
  ------------ | :-----------: | -----------: |
  Tatort | |crime|
 
+### Movies
+#### Adults
+Name  | Description | Genre |
+ ------------ | :-----------: | -----------: |
+ Der Untergang | | |
+ Die Feuerzangenbowle | | |
+ Das Boot | | |
+ Der Eisbär | | |
+ Papa ante Portas | | |
+ Fack ju Göhte | | |
+ 
 ### TV-Stations
 - [ARD](http://www.ardmediathek.de/tv)
 - [SRF](http://www.srf.ch/)
