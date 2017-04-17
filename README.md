@@ -14,3 +14,5 @@
 - Wissen macht AH! :mortar_board:
 ### TV-Stations
 - [ARD](http://www.ardmediathek.de/tv)
+- [SRF](http://www.srf.ch/)
+- [TIVI](http://www.tivi.de/)
