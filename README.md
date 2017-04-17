@@ -7,6 +7,7 @@
 - Die Drei ???
 - TKKG
 ### TV
+#### Kids
 Name  | Description | Genre |
  ------------ | :-----------: | -----------: |
  Sendung mit der Maus | |:mortar_board:|
@@ -14,6 +15,11 @@ Name  | Description | Genre |
  Käptn Blaubär | | |
  Logo | | :newspaper:|
  Wissen macht AH! | | :mortar_board:|
+#### Adults
+Name  | Description | Genre |
+ ------------ | :-----------: | -----------: |
+ Tatort | |crime|
+
 ### TV-Stations
 - [ARD](http://www.ardmediathek.de/tv)
 - [SRF](http://www.srf.ch/)
