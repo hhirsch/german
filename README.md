@@ -19,6 +19,7 @@ Name  | Description | Genre |
  Käptn Blaubär | | |
  Logo | | :newspaper:|
  Wissen macht AH! | | :mortar_board:|
+ Knoff-Hoff-Show | | :mortar_board:|
 #### Adults
 Name  | Description | Genre |
  ------------ | :-----------: | -----------: |
