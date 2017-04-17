@@ -3,6 +3,10 @@
 ### Books
 - Die Raupe Nimmersatt
 - Der Regenbogenfisch
+- Die unendliche Geschichte
+- Das fliegende Klassenzimmer
+- Das doppelte Lottchen
+- Pünktchen und Anton
 ### Audio
 - Die Drei ???
 - TKKG
