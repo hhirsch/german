@@ -25,6 +25,8 @@ Name  | Description | Genre |
 Name  | Description | Genre |
  ------------ | :-----------: | -----------: |
  Der Untergang | | |
+ Das fliegende Klassenzimmer | | |
+ Das doppelte Lotchen | | | 
  Die Feuerzangenbowle | | |
  Das Boot | | |
  Der Eisbär | | |
