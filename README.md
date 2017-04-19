@@ -48,6 +48,7 @@ Name  | Description | Genre |
  Das Millionenspiel | ||  
  Metropolis | ||  
  Nosferatu | || 
+ Sophi Scholl | ||
 ### TV-Stations
 - [ARD](http://www.ardmediathek.de/tv)
 - [SRF](http://www.srf.ch/)
