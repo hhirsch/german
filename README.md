@@ -1,6 +1,8 @@
 # German
 ## Media
 ### Books
+- Petterson und Findus
+- Zum Glück gibt's Freunde
 - Die Raupe Nimmersatt
 - Der Regenbogenfisch
 - Die unendliche Geschichte
