@@ -1,6 +1,7 @@
 # German
 ## Media
 ### Books
+- Ach, so schön ist Panama
 - Petterson und Findus
 - Zum Glück gibt's Freunde
 - Die Raupe Nimmersatt
