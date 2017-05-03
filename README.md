@@ -58,3 +58,4 @@ Name  | Description | Genre |
 - [TIVI](http://www.tivi.de/)
 ## Free Resources
 - [Learn German By Reading German](https://github.com/hhirsch/deutsch)
+- [Free German Course](http://duolingo.com)
