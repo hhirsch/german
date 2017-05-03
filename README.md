@@ -56,3 +56,5 @@ Name  | Description | Genre |
 - [ARD](http://www.ardmediathek.de/tv)
 - [SRF](http://www.srf.ch/)
 - [TIVI](http://www.tivi.de/)
+## Free Resources
+- [Learn German By Reading German](https://github.com/hhirsch/deutsch)
