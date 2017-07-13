@@ -35,8 +35,6 @@ Name  | Description | Genre |
  Das fliegende Klassenzimmer | | |
  Das doppelte Lottchen | | | 
  Pünktchen und Anton | | | 
- Fack ju Göhte | | |
- Winnetou | || 
 #### Adults
 Name  | Description | Genre |
  ------------ | :-----------: | -----------: |
@@ -52,6 +50,8 @@ Name  | Description | Genre |
  Metropolis | ||  
  Nosferatu | || 
  Sophie Scholl | ||
+ Fack ju Göhte | | |
+ Winnetou | || 
 ### TV-Stations
 - [ARD](http://www.ardmediathek.de/tv)
 - [SRF](http://www.srf.ch/)
